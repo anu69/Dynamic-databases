@@ -1,11 +1,11 @@
-
+https://user-images.githubusercontent.com/63070167/148506567-e9f72c3c-eb2e-4f1d-a6a3-84ee43548de1.mp4
 # Dynamic-Databases
 This is an dynamic table creation app made by Anushka Lalwani as the final project of Walkover University Program. 
 It can be used to collect all your user data and manage them
 
 #  TechStack
 - React.JS -Frontend library used in the project.
-- Redux - Used in addition to React.JS
+
 
 # Features:
 - Signup and login with google via authO
@@ -73,6 +73,6 @@ $ npm start
 ![image](https://user-images.githubusercontent.com/63070167/148403238-2cf15dde-4ae0-47bf-b1f3-2b106b00db1f.png)
 
 
-https://user-images.githubusercontent.com/63070167/148506567-e9f72c3c-eb2e-4f1d-a6a3-84ee43548de1.mp4
+
 
 
